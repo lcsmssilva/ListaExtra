@@ -1,0 +1,16 @@
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.csproj.AssemblyReference.cache
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.AssemblyInfoInputs.cache
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.AssemblyInfo.cs
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.csproj.CoreCompileInputs.cache
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\bin\Debug\net5.0\ListaExtra.exe
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\bin\Debug\net5.0\ListaExtra.deps.json
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\bin\Debug\net5.0\ListaExtra.runtimeconfig.json
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\bin\Debug\net5.0\ListaExtra.runtimeconfig.dev.json
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\bin\Debug\net5.0\ListaExtra.dll
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\bin\Debug\net5.0\ref\ListaExtra.dll
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\bin\Debug\net5.0\ListaExtra.pdb
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.dll
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ref\ListaExtra.dll
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.pdb
+C:\Users\1455155\Documents\Lista06ATP\ListaExtra\obj\Debug\net5.0\ListaExtra.genruntimeconfig.cache
